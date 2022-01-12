@@ -8,6 +8,8 @@
 
 [Exercise 3: CV](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-html-cv)
 
+[Exercise 4: CSS Selectors](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-css-selectors)
+
 [Challenge 1: Git & GitHub](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge2/)
