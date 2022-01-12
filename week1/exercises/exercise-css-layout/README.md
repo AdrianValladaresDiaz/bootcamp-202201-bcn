@@ -1,6 +1,6 @@
 # Ejercicio Layout
 
-Maquetar con HTML y CSS la maqueta proporcionada, con las siguientes especificaciones:
+Maquetar con HTML y CSS [la maqueta proporcionada](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-css-layout/layout.png), con las siguientes especificaciones:
 
 - Contenedor general:
   - Para viewport mayor o igual a 600px, el contenedor general debe medir el 90% del viewport.
