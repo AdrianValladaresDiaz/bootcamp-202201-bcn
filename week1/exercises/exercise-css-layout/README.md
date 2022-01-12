@@ -2,7 +2,7 @@
 
 Maquetar con HTML y CSS [la maqueta proporcionada](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-css-layout/layout.png), con las siguientes especificaciones:
 
-- Contenedor general: debe medir el 90% del viewport.
+- Contenedor general: debe medir el 90% del viewport, con un máximo de 1200px.
 - Cuerpo principal y sidebar: tiene que ocupar un tercio de todo el ancho, y el cuerpo principal 2/3.
 - Aire:
   - Los contenidos de cada bloque deben estar separados de su padre 15px a ambos lados.
