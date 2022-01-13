@@ -12,6 +12,8 @@
 
 [Exercise 5: CSS Layout](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-css-layout)
 
+[Exercise 6: CSS Header](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-css-header)
+
 [Challenge 1: Git & GitHub](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge2/)
