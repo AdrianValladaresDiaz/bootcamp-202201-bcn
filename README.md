@@ -25,3 +25,5 @@
 [Challenge 3: Maquetación Pets](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge3/)
 
 [Challenge 4: Maquetación Lista de la compra](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge4/)
+
+[Challenge Weekend: Lunarillos](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge-weekend/)
