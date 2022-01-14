@@ -16,7 +16,7 @@
 
 [Exercise 7: npm](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-npm)
 
-[Exercise 8: SASS Cards](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-sass)
+[Exercise 8: SASS Cards](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/exercises/exercise-sass-cards)
 
 [Challenge 1: Git & GitHub](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge1/)
 
