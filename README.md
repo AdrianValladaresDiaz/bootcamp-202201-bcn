@@ -30,6 +30,8 @@
 
 ## Week 2
 
-[Challenge 1: strictEquals function](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/challenges/challenge2/)
+[Challenge 2: strictEquals function](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/challenges/challenge2/)
+
+[Challenge 3: Precurso](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/challenges/challenge3/)
 
 [Exercise 1: Palindrome](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-palindrome)
