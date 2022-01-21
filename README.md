@@ -39,3 +39,5 @@
 [Exercise 1: Palindrome](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-palindrome)
 
 [Exercise 2: Case convert](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-case-convert)
+
+[Exercise 3: GoT convert](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-got)
