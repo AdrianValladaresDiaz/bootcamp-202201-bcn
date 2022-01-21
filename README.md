@@ -37,3 +37,5 @@
 [Challenge 4: Array methods](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/challenges/challenge4/)
 
 [Exercise 1: Palindrome](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-palindrome)
+
+[Exercise 2: Case convert](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-case-convert)
