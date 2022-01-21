@@ -6,6 +6,7 @@ Programar el Game of Life.
 
 Requisitos:
 
+- Testeado.
 - BEM.
 - Hay que incluir los hooks `commit-msg` y `pre-push` adjuntos a este enunciado.
 - Hay que incluir el workflow de GitHub Actions adjunto a este enunciado.
