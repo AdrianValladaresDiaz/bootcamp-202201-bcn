@@ -2,7 +2,7 @@
 
 ## Game of Life
 
-Programar el Game of Life con HTML, SASS y JavaScript.
+Programar el Game of Life.
 
 Requisitos:
 
