@@ -46,6 +46,6 @@
 
 ## Week 3
 
-[Challenge 1: GoT DOM](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week1/challenges/challenge1/)
+[Challenge 1: GoT DOM](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week3/challenges/challenge1/)
 
 [Exercise 1: Patients](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week3/exercises/exercise-patients)
