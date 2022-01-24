@@ -46,4 +46,4 @@
 
 ## Week 3
 
-[Exercise 1: Patients](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-patients)
+[Exercise 1: Patients](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week3/exercises/exercise-patients)
