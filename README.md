@@ -42,4 +42,8 @@
 
 [Exercise 2: Case convert](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-case-convert)
 
-[Exercise 3: GoT convert](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-got)
+[Exercise 3: Clases GoT](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-got)
+
+## Week 3
+
+[Exercise 1: Patients](https://github.com/isdi-coders-2022/bootcamp-202201-bcn/tree/master/week2/exercises/exercise-patients)
